@@ -4,7 +4,7 @@ description: Page with all of our personal!
 
 layout: page
 title: "Employees"
-permalink: /about/mininoEmployees
+permalink: /root/mininoEmployees
 
 layout: post
 title: "Employee-Post"
