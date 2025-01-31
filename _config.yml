@@ -10,15 +10,3 @@ layout: post
 title: "Employee-Post"
 date: 2025-01-31 17:30:00 -0000
 categories: CATEGORY-Employee CATEGORY-Post
-
-
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
