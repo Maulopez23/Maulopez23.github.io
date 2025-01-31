@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Miniño Abogados 
 description: Page with all of our personal!
+
+layout: page
+title: "Employees"
+permalink: /mininoEmployees
